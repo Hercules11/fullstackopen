@@ -6,7 +6,7 @@
 
 今年（2020）的课程还包含了一个新的章节—— [TypeScript](https://fullstackopen.com/zh/part9)，这部分课程内容是由[Terveystalo](https://www.terveystalo.com/fi/Yritystietoa/Terveystalo-tyontantajana/Digital-Health/)提供的
 
-本门课程价值5~12个学分，课程内容与赫尔辛基大学[计算机科学系](https://www.helsinki.fi/en/computer-science)的2021春季课程[【全栈课程】](https://fullstack-hy2020.github.io/)相同，这门课附带一个相关的[项目作业](https://fullstackopen.com/osa0/yleista#full-stack-harjoitustyo)，价值1~10个学分
+本门课程价值5\~12个学分，课程内容与赫尔辛基大学[计算机科学系](https://www.helsinki.fi/en/computer-science)的2021春季课程[【全栈课程】](https://fullstack-hy2020.github.io/)相同，这门课附带一个相关的[项目作业](https://fullstackopen.com/osa0/yleista#full-stack-harjoitustyo)，价值1\~10个学分
 
 本门课的合作伙伴和友情机构包括[Houston Inc](https://www.houston-inc.com/), [Terveystalo](https://www.terveystalo.com/fi/Yritystietoa/Terveystalo-tyontantajana/Digital-Health/), [Elisa](https://elisa.fi/), [K-ryhmä](https://www.kesko.fi/), [Unity Technologies](https://www.instagram.com/unitytechnologies/?hl=en) 以及 [Konecranes](https://careers.konecranes.com/Konecranes/)。[这里](https://www.youtube.com/watch?v=BZexOyQZMMc&list=PLumQiZ25uijis31zaRL7rhzLalSwLqUtm)可以观看由我们的合作伙伴和友情机构的多位专家提供的与本门课程主题相关的客座讲座。
 
