@@ -1,12 +1,29 @@
-const Persons = ({ persons }) => {
+const Persons = ({
+  persons,
+  filterWord,
+  deleteHandler,
+  deletePersonOfState,
+}) => {
   return (
     <div>
       {persons.map((person) => {
-        return (
-          <p key={person.id}>
-            {person.name} {person.phone}
-          </p>
-        );
+        if (person.name.includes(filterWord)) {
+          return (
+            <p key={person.id}>
+              {person.name} {person.number}{" "}
+              <button
+                onClick={() => {
+                  if (window.confirm(`Ensure to delete ${person.name}`)) {
+                    deleteHandler(person); // 删除后端的对应数据
+                    deletePersonOfState(person); // 更新组件的状态值
+                  }
+                }}
+              >
+                delete
+              </button>
+            </p>
+          );
+        }
       })}
     </div>
   );

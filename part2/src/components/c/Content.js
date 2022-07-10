@@ -6,6 +6,7 @@ const Content = ({ search }) => {
   const [display, setDisplay] = useState([]);
   const [show, setShow] = useState([]);
 
+  // 利用bind 传参，不调用函数
   const handleClick = (idx) => {
     const copy = [...show];
     copy[idx] = !copy[idx];
