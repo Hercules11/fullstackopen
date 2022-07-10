@@ -37,7 +37,7 @@ const App = () => {
       <button onClick={() => setSelected(geneRandom())}>next anecdote</button>
       <h1>Anecode with most votes</h1>
       <p>{anecdotes[maxindex]}</p>
-      <p>has {statistics[maxindex]}</p>
+      <p>has {statistics[maxindex]} votes</p>
     </div>
   );
 };
